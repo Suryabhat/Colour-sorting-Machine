@@ -13,7 +13,8 @@ This project is an automated color sorting machine that uses an ESP8266 microcon
 - Power supply
 
 ## Circuit Diagram
-![Circuit Diagram](circuit_diagram/color_sorting_circuit.png)
+![image](https://github.com/user-attachments/assets/6afaf882-efd6-47a8-be45-f22b06daf859)
+
 
 ## Setup and Installation
 1. Clone this repository:
