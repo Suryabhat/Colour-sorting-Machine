@@ -2,10 +2,10 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ThingSpeak.h>
-const char * myWriteAPIKey = "NSFOJ27RO2YXCTH9";
-unsigned long myChannelNumber = 2321486;
-const char *ssid =  "EC_IIOT_LAB";     // Enter your WiFi Name
-const char *pass =  "Eciiotlab@103"; // Enter your WiFi Password
+const char * myWriteAPIKey = "******"; // Type your API Key
+unsigned long myChannelNumber = 12345678; // Type your ThingSpeak Channel number
+const char *ssid =  "******";     // Enter your WiFi Name
+const char *pass =  "*******"; // Enter your WiFi Password
 WiFiClient client;
 Servo pickServo;
 Servo dropServo;
