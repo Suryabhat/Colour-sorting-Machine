@@ -1,4 +1,3 @@
-# Colour-sorting-Machine
 # Color Sorting Machine using ESP8266
 
 ## Overview
