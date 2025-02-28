@@ -18,7 +18,7 @@ This project is an automated color sorting machine that uses an ESP8266 microcon
 ## Setup and Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Suryabhat/Home-Automation-using-ESP8266.git
+   git clone https://github.com/Suryabhat/Colour-sorting-Machine.git
    ```
 2. Open the `color_sorting.ino` file in Arduino IDE.
 3. Install necessary libraries:
